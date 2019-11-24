@@ -2,8 +2,6 @@
 
 AB Test module provides a capability to test whether the AB Test is statistically significant or not.
 
-All the calculation is based on https://abtestguide.com/calc/
-
 #### Usage Example
 
 ```
