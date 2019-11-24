@@ -1,6 +1,6 @@
-### AB Test
+### AB Tester
 
-AB Test module provides a capability to test whether the AB Test is statistically significant or not.
+AB Tester module provides a capability to test whether the AB Test is statistically significant or not.
 
 #### Usage Example
 
